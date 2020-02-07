@@ -11,11 +11,11 @@ Course Project, CS 21191070 Computer Vision, ZJU, 2019 Winter. Instructor: Mingl
 ## Results
 
 Top 10 eigenface:
-
+![image](https://github.com/RuiFeiHe/Eigenface/blob/master/top10.png)
 
 
 recognition and rebuild results:
-
+![image](https://github.com/RuiFeiHe/Eigenface/blob/master/Eigenface.png)
 
 
 ## Functions
