@@ -15,6 +15,8 @@ Top 10 eigenface:
 
 
 recognition and rebuild results:
+
+
 <img width="350" height="350" src="https://github.com/RuiFeiHe/Eigenface/blob/master/Eigenface.png"/>
 
 
