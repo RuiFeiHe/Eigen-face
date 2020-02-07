@@ -15,7 +15,7 @@ Top 10 eigenface:
 
 
 recognition and rebuild results:
-![image -w360 -h360](https://github.com/RuiFeiHe/Eigenface/blob/master/Eigenface.png)
+<img width="350" height="350" src="https://github.com/RuiFeiHe/Eigenface/blob/master/Eigenface.png"/>
 
 
 ## Functions
