@@ -14,7 +14,7 @@ Top 10 eigenface:
 ![image](https://github.com/RuiFeiHe/Eigenface/blob/master/top10.png)
 
 
-recognition and rebuild results:
+Recognition and rebuild results:
 
 
 <img width="350" height="350" src="https://github.com/RuiFeiHe/Eigenface/blob/master/Eigenface.png"/>
