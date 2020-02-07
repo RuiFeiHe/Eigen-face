@@ -15,7 +15,7 @@ Top 10 eigenface:
 
 
 recognition and rebuild results:
-![image](https://github.com/RuiFeiHe/Eigenface/blob/master/Eigenface.png)
+![image](https://github.com/RuiFeiHe/Eigenface/blob/master/Eigenface.png){:height="50%" width="50%"}
 
 
 ## Functions
